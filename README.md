@@ -1,11 +1,22 @@
 # Extremely Efficient Engineers
 
-Factories and Fabricators have minimall energy cost.
+Factories and Fabricators have minimal energy cost.
 
-## Features
+This mod is part of the Dynamic Energy experiment.  Right now in vanilla metal and energy feel kind of the same.
 
-- Rainbows
-- Unicorns
+## Indictments
+
+### Most energy is spent to spend metal.
+
+Fabricators and factories are the biggest energy consumers.  Both of these things are already limited by metal usage.  Attacking either resource has exactly the same effect: the player's build rate slows. 
+
+The mod drastically reduces fabrication energy, and might remove it if the engine evern supports build rates that are not affected by energy efficiency.
+
+### Demand is constant.
+
+Factories are always on and fabbers are usually fabbing.  Storage is a mostly forgotten vestige of the TA heritage; a player who builds one in competitive play gets asked about the unsual move in interviews.
+
+I expect that this mod will be combined with another that adds a different significant use for energy, and one that is more variable, making energy storage valuable. Or you could play a game where energy is basically irrelevant.
 
 ## Development
 
@@ -16,6 +27,5 @@ PA will upload **all files** in the mod directory, including `node_modules` and 
 ### Available Tasks
 
 - copy:mod - copy the mod files into server_mods
-- proc:adv_comfab - Proc: read one or more files from PA and munge into one in the mod.  Example is a reduced cost adv. fabrication bot
-- proc:antinuke - restore the builtin first antinuke.
+- proc - Proc: read one or more files from PA and munge into one in the mod.
 - default: proc, copy:mod
