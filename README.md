@@ -10,11 +10,11 @@ This mod is part of the Dynamic Energy experiment.  Right now in vanilla metal a
 
 Fabricators and factories are the biggest energy consumers.  Both of these things are already limited by metal usage.  Attacking either resource has exactly the same effect: the player's build rate slows. 
 
-The mod drastically reduces fabrication energy, and might remove it if the engine evern supports build rates that are not affected by energy efficiency.
+The mod drastically reduces fabrication energy, and might remove it if the engine ever supports build rates that are not affected by energy efficiency.
 
 ### Demand is constant.
 
-Factories are always on and fabbers are usually fabbing.  Storage is a mostly forgotten vestige of the TA heritage; a player who builds one in competitive play gets asked about the unsual move in interviews.
+Factories are always on and fabbers are usually fabbing.  Storage is a mostly forgotten vestige of the TA heritage; a player who builds one in competitive play gets asked about the unusual move in interviews.
 
 I expect that this mod will be combined with another that adds a different significant use for energy, and one that is more variable, making energy storage valuable. Or you could play a game where energy is basically irrelevant.
 
