@@ -1,4 +1,7 @@
 {
+  "articles": {
+    "Extremely Efficient Engineers": "coui://com.wondible.pa.extremely_efficient_engineers/eee.html"
+  },
   "topics": {
     "extreme energy combat": "Factories and Fabricators have minimal energy cost."
   }
