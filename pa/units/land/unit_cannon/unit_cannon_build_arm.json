@@ -1,7 +1,7 @@
 {
   "base_spec": "/pa/tools/factory_build_arm/factory_build_arm.json",
   "construction_demand": {
-    "energy": 40.5,
-    "metal": 120
+    "energy": 30.5,
+    "metal": 60
   }
 }

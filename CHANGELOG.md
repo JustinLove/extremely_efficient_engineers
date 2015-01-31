@@ -1,3 +1,7 @@
+## 1.1.1
+
+- Update for changes in 77443
+
 ## 1.1.0
 
 - Support Server Mod Help Chat
