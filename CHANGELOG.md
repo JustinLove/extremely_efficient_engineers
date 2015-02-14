@@ -1,3 +1,7 @@
+## 1.1.2
+
+- Update units specs for 78071
+
 ## 1.1.1
 
 - Update for changes in 77443

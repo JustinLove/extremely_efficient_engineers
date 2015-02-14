@@ -1,14 +1,14 @@
 {
   "author": "wondible",
-  "build": "77443",
+  "build": "78071",
   "context": "server",
   "category": ["energy", "construction"],
-  "date": "2015/01/30",
+  "date": "2015/02/13",
   "description": "Factories and Fabricators have minimal energy cost.",
   "display_name": "Extremely Efficient Engineers",
   "forum": "https://forums.uberent.com/threads/rel-server-extremely-efficient-engineers.65880/",
   "identifier": "com.wondible.pa.extremely_efficient_engineers",
   "signature": "not yet implemented",
-  "version": "1.1.1"
+  "version": "1.1.2"
 }
 
