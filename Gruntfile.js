@@ -31,7 +31,7 @@ module.exports = function(grunt) {
     proc: {
       fabricators: {
         targets: [
-          'pa/tools/**/*build_arm*.json',
+          'pa/tools/commander_build_arm/commander_build_arm.json',
           'pa/units/**/*build_arm*.json',
           '!pa/units/**/*nuke*.json'
         ],

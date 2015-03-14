@@ -1,3 +1,8 @@
+## 1.1.3
+
+- Update units specs for 79317
+- No longer shadows base engineer and factory build arms, which it never needed anyway
+
 ## 1.1.2
 
 - Update units specs for 78071

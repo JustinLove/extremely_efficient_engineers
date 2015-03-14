@@ -6,5 +6,11 @@
     "metal": 10000
   },
   "yaw_rate": 3600,
-  "pitch_rate": 3600
+  "pitch_rate": 3600,
+  "assist_layers": [
+    "WL_AnyLayer"
+  ],
+  "reclaim_layers": [
+    "WL_AnyLayer"
+  ]
 }
