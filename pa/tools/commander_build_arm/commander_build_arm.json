@@ -2,7 +2,7 @@
   "tool_type": "TOOL_BuildArm",
   "max_range": 20,
   "construction_demand": {
-    "energy": 20,
+    "energy": 17.5,
     "metal": 30
   },
   "yaw_rate": 90,
@@ -11,7 +11,8 @@
   "pitch_range": 90,
   "assist_layers": [
     "WL_AnyHorizontalGroundOrWaterSurface",
-    "WL_Air"
+    "WL_Air",
+    "WL_Underwater"
   ],
   "reclaim_layers": [
     "WL_AnyHorizontalGroundOrWaterSurface",

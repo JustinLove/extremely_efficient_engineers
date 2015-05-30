@@ -1,3 +1,9 @@
+## 1.1.4
+
+- PA updates for 82293
+- Commander build arm
+- Player guide topic prelude
+
 ## 1.1.3
 
 - Update units specs for 79317
