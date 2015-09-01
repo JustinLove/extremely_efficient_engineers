@@ -1,3 +1,8 @@
+## 1.2.0
+
+- Based on titans units, with differentiated build power
+- Update icon paths in help article
+
 ## 1.1.4
 
 - PA updates for 82293

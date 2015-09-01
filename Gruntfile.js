@@ -33,7 +33,8 @@ module.exports = function(grunt) {
         targets: [
           'pa/tools/commander_build_arm/commander_build_arm.json',
           'pa/units/**/*build_arm*.json',
-          '!pa/units/**/*nuke*.json'
+          'pa_ex1/units/**/*build_arm*.json',
+          '!pa*/units/**/*nuke*.json'
         ],
         process: function(spec) {
           spec.construction_demand.energy *= 0.01
