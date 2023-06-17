@@ -4,7 +4,7 @@
     "energy": 10,
     "metal": 30
   },
-  "max_range": 30,
+  "max_range": 0,
   "yaw_rate": 90,
   "pitch_rate": 90
 }

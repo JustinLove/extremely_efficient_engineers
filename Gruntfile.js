@@ -32,6 +32,7 @@ module.exports = function(grunt) {
       fabricators: {
         targets: [
           'pa/tools/commander_build_arm/commander_build_arm.json',
+          'pa_ex1/tools/commander_build_arm/commander_build_arm.json',
           'pa/units/**/*build_arm*.json',
           'pa_ex1/units/**/*build_arm*.json',
           '!pa*/units/**/*nuke*.json'
@@ -57,8 +58,12 @@ module.exports = function(grunt) {
     }
   })
 
+  grunt.registerTask('printPath', function() {
+    console.log(media)
+  });
+
   // Default task(s).
-  grunt.registerTask('default', ['proc', 'copy:mod']);
+  grunt.registerTask('default', ['proc', 'copy:mod', 'printPath']);
 
 };
 

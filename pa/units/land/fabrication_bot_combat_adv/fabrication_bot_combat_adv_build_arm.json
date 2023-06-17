@@ -4,6 +4,7 @@
   "pitch_rate": 360,
   "max_range": 75,
   "auto_repair": true,
+  "auto_reclaim": true,
   "construction_demand": {
     "energy": 8,
     "metal": 60
